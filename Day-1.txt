@@ -1,0 +1,10 @@
+Day-1
+
+● DevOps Overview
+● Creation of AWS account
+● Creation of Linux EC2 instance
+● Downloading the putty and puttygen
+● Connecting to the Linux server
+● Create and Connecting to the Ubuntu server
+● Create and Connecting to the Ubuntu server
+● Create and Connecting to the Windows server
